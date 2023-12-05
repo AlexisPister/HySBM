@@ -77,7 +77,13 @@ class Generator:
         self.hyperedge_type = "hyperedge"
 
         if not self.community_array:
-            self.community_array = [random.randint(0, self.n_coms - 1) for i in range(n_nodes)]
+            # Random
+            # self.community_array = [random.randint(0, self.n_coms - 1) for i in range(n_nodes)]
+
+            # Same number of nodes per communities
+            self.community_array = []
+            for i in range(n_coms):
+                self.community_array += [i for x in range(n_nodes // n_coms)]
 
     def init_graph(self):
         self.G = nx.Graph()
@@ -390,7 +396,7 @@ class Generator:
         return graph_json
 
     def export(self):
-        fp = f"hypergraphs_v2/{self.n_nodes}nodes_{self.sampling_start}.json"
+        fp = f"hypergraphs_v2/{self.n_nodes}nodes_{self.p_edge_intra}p_{self.p_edge_inter}q_{self.sampling_start}.json"
         with open(fp, "w+") as path:
             json.dump(self.to_json(), path)
 
@@ -413,19 +419,15 @@ if __name__ == "__main__":
                 gen.run()
                 gen.export()
 
-    gen = Generator(500, 300, 2, 0.20, 0.05, None, "weighted")
-    gen.run()
+
+    for q in [0.02, 0.005, 0.002, 0]:
+        gen = Generator(200, 200, 4, 0.02, q, None, "frequent")
+        gen.run()
+        gen.export()
+
+
     # types = gen.hyperedges_types()
     # print(types)
     # print(gen.G)
-
-    nmax = gen.hyperedges_nmax()
-    # print(nmax)
-
-    gen = Generator(80, 40, 2, 0.10, 0.05, None, "weighted")
-    gen.run()
-    ginis = gen.ginis()
-    # ginis = gen.ginis2()
-    print(ginis)
 
 
