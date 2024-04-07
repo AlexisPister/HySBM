@@ -1,12 +1,8 @@
-import json
 import pandas as pd
-import os
-from collections import Counter
 
 from generator_v2 import Generator
 
 # This script does simulations to test if the order of node traversal has an effect on th Gini of hyperedges
-
 
 # Same as df_fits but other format so easier altair plots
 df_fits2 = pd.DataFrame()
@@ -15,7 +11,7 @@ N_edges = 200
 # Last value is the one used for most simulations
 Ns = [1000]
 p = 0.03
-N_graphs = 2
+N_graphs = 100
 N_coms = 4
 
 df_sims = pd.DataFrame()

@@ -1,0 +1,2319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="1520.6666"
+   height="419"
+   viewBox="0 0 1520.6666 419"
+   id="svg239"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs239" />
+  <rect
+     width="1520.6666"
+     height="419"
+     fill="#ffffff"
+     id="rect1"
+     x="0"
+     y="0"
+     style="stroke-width:1.00452" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(90,64)"
+     id="g239">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g238">
+      <g
+         id="g237">
+        <path
+           class="background"
+           aria-hidden="true"
+           d="M 0,0 V 0 Z"
+           id="path1" />
+        <g
+           id="g236">
+          <g
+             class="mark-group role-column-title facet-title"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g9">
+            <g
+               transform="translate(639,-29)"
+               id="g8">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 V 0 Z"
+                 id="path2" />
+              <g
+                 id="g7">
+                <g
+                   class="mark-group role-title"
+                   id="g6">
+                  <g
+                     transform="translate(0,-30)"
+                     id="g5">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 Z"
+                       pointer-events="none"
+                       id="path3" />
+                    <g
+                       id="g4">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'Strategy'"
+                         pointer-events="none"
+                         id="g3">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(0,16)"
+                           font-family="sans-serif"
+                           font-size="20px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text3">Strategy</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path4" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path7" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-row-header row_header"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g31">
+            <g
+               transform="translate(-3)"
+               id="g30">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m 0,0 v 0 300 0 z"
+                 id="path9" />
+              <g
+                 id="g29">
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis titled 'P(G)' for a linear scale with values from 0.0 to 3.5"
+                   id="g28">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g27">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 Z"
+                       pointer-events="none"
+                       id="path10" />
+                    <g
+                       id="g26">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g17">
+                        <line
+                           transform="translate(0,300)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line10"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,257)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line11"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,214)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line12"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,171)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line13"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,129)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line14"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,86)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line15"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,43)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line16"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line17"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g24">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,305)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text17">0.0</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,262.14286)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text18">0.5</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,219.28571)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text19">1.0</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,176.42857)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text20">1.5</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,133.57143)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text21">2.0</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,90.714286)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text22">2.5</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,47.857143)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text23">3.0</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,5)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text24">3.5</text>
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g25">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(-60,146)"
+                           font-family="sans-serif"
+                           font-size="20px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text25">P(G)</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path26" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path29" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-column-footer column_footer"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g144">
+            <g
+               transform="translate(0,303)"
+               id="g59">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 300 V 0 Z"
+                 id="path31" />
+              <g
+                 id="g58">
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="X-axis titled 'G' for a linear scale with values from 0.0 to 1.0"
+                   id="g57">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g56">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 Z"
+                       pointer-events="none"
+                       id="path32" />
+                    <g
+                       id="g55">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g42">
+                        <line
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line32"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(30)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line33"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(60)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line34"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(90)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line35"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(120)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line36"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(150)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line37"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(180)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line38"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(210)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line39"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(240)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line40"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(270)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line41"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(300)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line42"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g52">
+                        <text
+                           text-anchor="start"
+                           transform="translate(0,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text42">0.0</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(30,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text43">0.1</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(60,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text44">0.2</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(90,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text45">0.3</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(120,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text46">0.4</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(150,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text47">0.5</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(180,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text48">0.6</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(210,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text49">0.7</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(240,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text50">0.8</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(270,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text51">0.9</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(300,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text52">1.0</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g53">
+                        <line
+                           x2="300"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line52"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g54">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(150,43)"
+                           font-family="sans-serif"
+                           font-size="20px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text53">G</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path55" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path58" />
+            </g>
+            <g
+               transform="translate(326,303)"
+               id="g87">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 300 V 0 Z"
+                 id="path59" />
+              <g
+                 id="g86">
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="X-axis titled 'G' for a linear scale with values from 0.0 to 1.0"
+                   id="g85">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g84">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 Z"
+                       pointer-events="none"
+                       id="path60" />
+                    <g
+                       id="g83">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g70">
+                        <line
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line60"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(30)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line61"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(60)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line62"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(90)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line63"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(120)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line64"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(150)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line65"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(180)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line66"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(210)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line67"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(240)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line68"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(270)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line69"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(300)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line70"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g80">
+                        <text
+                           text-anchor="start"
+                           transform="translate(0,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text70">0.0</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(30,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text71">0.1</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(60,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text72">0.2</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(90,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text73">0.3</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(120,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text74">0.4</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(150,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text75">0.5</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(180,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text76">0.6</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(210,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text77">0.7</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(240,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text78">0.8</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(270,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text79">0.9</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(300,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text80">1.0</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g81">
+                        <line
+                           x2="300"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line80"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g82">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(150,43)"
+                           font-family="sans-serif"
+                           font-size="20px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text81">G</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path83" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path86" />
+            </g>
+            <g
+               transform="translate(652,303)"
+               id="g115">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 300 V 0 Z"
+                 id="path87" />
+              <g
+                 id="g114">
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="X-axis titled 'G' for a linear scale with values from 0.0 to 1.0"
+                   id="g113">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g112">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 Z"
+                       pointer-events="none"
+                       id="path88" />
+                    <g
+                       id="g111">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g98">
+                        <line
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line88"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(30)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line89"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(60)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line90"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(90)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line91"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(120)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line92"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(150)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line93"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(180)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line94"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(210)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line95"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(240)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line96"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(270)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line97"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(300)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line98"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g108">
+                        <text
+                           text-anchor="start"
+                           transform="translate(0,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text98">0.0</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(30,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text99">0.1</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(60,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text100">0.2</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(90,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text101">0.3</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(120,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text102">0.4</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(150,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text103">0.5</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(180,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text104">0.6</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(210,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text105">0.7</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(240,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text106">0.8</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(270,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text107">0.9</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(300,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text108">1.0</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g109">
+                        <line
+                           x2="300"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line108"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g110">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(150,43)"
+                           font-family="sans-serif"
+                           font-size="20px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text109">G</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path111" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path114" />
+            </g>
+            <g
+               transform="translate(978,303)"
+               id="g143">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 300 V 0 Z"
+                 id="path115" />
+              <g
+                 id="g142">
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="X-axis titled 'G' for a linear scale with values from 0.0 to 1.0"
+                   id="g141">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g140">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 Z"
+                       pointer-events="none"
+                       id="path116" />
+                    <g
+                       id="g139">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g126">
+                        <line
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line116"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(30)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line117"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(60)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line118"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(90)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line119"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(120)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line120"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(150)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line121"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(180)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line122"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(210)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line123"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(240)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line124"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(270)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line125"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(300)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line126"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g136">
+                        <text
+                           text-anchor="start"
+                           transform="translate(0,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text126">0.0</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(30,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text127">0.1</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(60,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text128">0.2</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(90,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text129">0.3</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(120,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text130">0.4</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(150,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text131">0.5</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(180,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text132">0.6</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(210,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text133">0.7</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(240,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text134">0.8</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(270,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="0"
+                           id="text135">0.9</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(300,20)"
+                           font-family="monospace"
+                           font-size="16px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text136">1.0</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g137">
+                        <line
+                           x2="300"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line136"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g138">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(150,43)"
+                           font-family="sans-serif"
+                           font-size="20px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text137">G</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path139" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path142" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-scope cell"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g213">
+            <g
+               id="g161">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m 0.5,0.5 h 300 v 300 H 0.5 Z"
+                 stroke="#dddddd"
+                 id="path144" />
+              <g
+                 id="g160">
+                <g
+                   class="mark-group role-scope child_pathgroup"
+                   role="graphics-object"
+                   aria-roledescription="group mark container"
+                   id="g155">
+                  <g
+                     id="g148">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path145" />
+                    <g
+                       id="g147">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g146">
+                        <path
+                           aria-label="G: 0; P(G): 0.00229370293582; order: fixed"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,299.803 1.5,-0.026 1.5,-0.038 1.5,-0.062 1.5,-0.099 1.5,-0.153 1.5,-0.223 1.5,-0.304 1.5,-0.393 1.5,-0.484 1.5,-0.57 1.5,-0.643 1.5,-0.702 1.5,-0.746 1.5,-0.779 1.5,-0.805 1.5,-0.833 1.5,-0.867 1.5,-0.914 1.5,-0.974 1.5,-1.05 1.5,-1.139 1.5,-1.241 1.5,-1.35 1.5,-1.465 1.5,-1.586 1.5,-1.708 1.5,-1.833 1.5,-1.949 1.5,-2.052 1.5,-2.132 1.5,-2.186 1.5,-2.218 1.5,-2.248 1.5,-2.305 1.5,-2.415 1.5,-2.605 1.5,-2.868 1.5,-3.182 1.5,-3.502 1.5,-3.774 1.5,-3.959 1.5,-4.036 1.5,-4.017 1.5,-3.936 1.5,-3.841 1.5,-3.778 1.5,-3.788 1.5,-3.893 1.5,-4.101 1.5,-4.401 1.5,-4.757 1.5,-5.11 1.5,-5.373 1.5,-5.458 1.5,-5.297 1.5,-4.898 1.5,-4.366 1.5,-3.907 1.5,-3.764 1.5,-4.122 1.5,-4.997 1.5,-6.179 1.5,-7.263 1.5,-7.8 1.5,-7.486 1.5,-6.313 1.5,-4.614 1.5,-2.941 1.5,-1.841 1.5,-1.626 1.5,-2.25 1.5,-3.345 1.5,-4.396 1.5,-4.957 1.5,-4.817 1.5,-4.046 1.5,-2.915 1.5,-1.755 1.5,-0.837 1.5,-0.278 1.5,-0.065 1.5,-0.093 1.5,-0.237 1.5,-0.398 1.5,-0.52 1.5,-0.584 1.5,-0.581 1.5,-0.513 1.5,-0.37 1.5,-0.155 1.5,0.125 1.5,0.453 1.5,0.807 1.5,1.169 1.5,1.53 1.5,1.889 1.5,2.239 1.5,2.559 1.5,2.819 1.5,2.982 1.5,3.022 1.5,2.948 1.5,2.796 1.5,2.629 1.5,2.519 1.5,2.52 1.5,2.655 1.5,2.915 1.5,3.264 1.5,3.655 1.5,4.036 1.5,4.366 1.5,4.617 1.5,4.77 1.5,4.819 1.5,4.774 1.5,4.656 1.5,4.497 1.5,4.336 1.5,4.212 1.5,4.154 1.5,4.172 1.5,4.261 1.5,4.392 1.5,4.528 1.5,4.63 1.5,4.665 1.5,4.61 1.5,4.47 1.5,4.259 1.5,4.015 1.5,3.771 1.5,3.561 1.5,3.403 1.5,3.298 1.5,3.238 1.5,3.205 1.5,3.185 1.5,3.158 1.5,3.113 1.5,3.035 1.5,2.919 1.5,2.764 1.5,2.583 1.5,2.386 1.5,2.194 1.5,2.019 1.5,1.871 1.5,1.753 1.5,1.665 1.5,1.604 1.5,1.565 1.5,1.544 1.5,1.532 1.5,1.525 1.5,1.514 1.5,1.491 1.5,1.452 1.5,1.397 1.5,1.33 1.5,1.256 1.5,1.187 1.5,1.126 1.5,1.078 1.5,1.042 1.5,1.011 1.5,0.982 1.5,0.947 1.5,0.902 1.5,0.849 1.5,0.792 1.5,0.732 1.5,0.676 1.5,0.621 1.5,0.568 1.5,0.514 1.5,0.457 1.5,0.395 1.5,0.333 1.5,0.272 1.5,0.218 1.5,0.176 1.5,0.147 1.5,0.133 1.5,0.133 1.5,0.146 1.5,0.164 1.5,0.185 1.5,0.202 1.5,0.212 1.5,0.209 1.5,0.196 1.5,0.171 1.5,0.138 1.5,0.101 1.5,0.068 1.5,0.04 1.5,0.022 1.5,0.015 1.5,0.017"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="8, 4"
+                           id="path146" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path147" />
+                  </g>
+                  <g
+                     id="g151">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path148" />
+                    <g
+                       id="g150">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g149">
+                        <path
+                           aria-label="G: 0; P(G): 0.00579675049975; order: random"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,299.503 1.5,-0.006 1.5,0.003 1.5,10e-4 1.5,-0.018 1.5,-0.055 1.5,-0.109 1.5,-0.178 1.5,-0.259 1.5,-0.344 1.5,-0.432 1.5,-0.519 1.5,-0.602 1.5,-0.682 1.5,-0.761 1.5,-0.837 1.5,-0.913 1.5,-0.986 1.5,-1.058 1.5,-1.123 1.5,-1.182 1.5,-1.24 1.5,-1.301 1.5,-1.373 1.5,-1.469 1.5,-1.596 1.5,-1.758 1.5,-1.951 1.5,-2.157 1.5,-2.359 1.5,-2.532 1.5,-2.66 1.5,-2.737 1.5,-2.776 1.5,-2.795 1.5,-2.824 1.5,-2.885 1.5,-2.986 1.5,-3.124 1.5,-3.28 1.5,-3.433 1.5,-3.569 1.5,-3.678 1.5,-3.765 1.5,-3.842 1.5,-3.925 1.5,-4.034 1.5,-4.188 1.5,-4.405 1.5,-4.699 1.5,-5.061 1.5,-5.456 1.5,-5.813 1.5,-6.029 1.5,-5.997 1.5,-5.651 1.5,-5.002 1.5,-4.181 1.5,-3.416 1.5,-2.974 1.5,-3.053 1.5,-3.684 1.5,-4.669 1.5,-5.628 1.5,-6.128 1.5,-5.872 1.5,-4.843 1.5,-3.334 1.5,-1.851 1.5,-0.9 1.5,-0.782 1.5,-1.473 1.5,-2.65 1.5,-3.841 1.5,-4.626 1.5,-4.787 1.5,-4.359 1.5,-3.561 1.5,-2.686 1.5,-1.97 1.5,-1.533 1.5,-1.368 1.5,-1.388 1.5,-1.488 1.5,-1.577 1.5,-1.603 1.5,-1.548 1.5,-1.402 1.5,-1.17 1.5,-0.854 1.5,-0.463 1.5,-0.023 1.5,0.442 1.5,0.901 1.5,1.336 1.5,1.743 1.5,2.124 1.5,2.481 1.5,2.802 1.5,3.071 1.5,3.259 1.5,3.353 1.5,3.357 1.5,3.299 1.5,3.22 1.5,3.161 1.5,3.152 1.5,3.202 1.5,3.302 1.5,3.44 1.5,3.599 1.5,3.766 1.5,3.934 1.5,4.098 1.5,4.255 1.5,4.397 1.5,4.524 1.5,4.632 1.5,4.721 1.5,4.789 1.5,4.835 1.5,4.849 1.5,4.828 1.5,4.765 1.5,4.659 1.5,4.52 1.5,4.359 1.5,4.19 1.5,4.024 1.5,3.87 1.5,3.733 1.5,3.61 1.5,3.5 1.5,3.391 1.5,3.276 1.5,3.146 1.5,2.998 1.5,2.844 1.5,2.702 1.5,2.594 1.5,2.535 1.5,2.528 1.5,2.56 1.5,2.611 1.5,2.653 1.5,2.667 1.5,2.639 1.5,2.567 1.5,2.454 1.5,2.31 1.5,2.146 1.5,1.974 1.5,1.805 1.5,1.647 1.5,1.506 1.5,1.387 1.5,1.29 1.5,1.215 1.5,1.162 1.5,1.127 1.5,1.107 1.5,1.1 1.5,1.102 1.5,1.111 1.5,1.123 1.5,1.134 1.5,1.138 1.5,1.13 1.5,1.106 1.5,1.065 1.5,1.007 1.5,0.936 1.5,0.854 1.5,0.768 1.5,0.681 1.5,0.597 1.5,0.517 1.5,0.44 1.5,0.368 1.5,0.297 1.5,0.231 1.5,0.172 1.5,0.123 1.5,0.086 1.5,0.065 1.5,0.061 1.5,0.075 1.5,0.102 1.5,0.136 1.5,0.173 1.5,0.204 1.5,0.225 1.5,0.232 1.5,0.225 1.5,0.204 1.5,0.175 1.5,0.142 1.5,0.11 1.5,0.082 1.5,0.061 1.5,0.047"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="4, 8"
+                           id="path149" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path150" />
+                  </g>
+                  <g
+                     id="g154">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path151" />
+                    <g
+                       id="g153">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g152">
+                        <path
+                           aria-label="G: 0; P(G): 0.0233513873511; order: community"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,297.998 1.5,-0.11 1.5,-0.114 1.5,-0.168 1.5,-0.279 1.5,-0.451 1.5,-0.669 1.5,-0.911 1.5,-1.154 1.5,-1.373 1.5,-1.545 1.5,-1.66 1.5,-1.719 1.5,-1.728 1.5,-1.7 1.5,-1.656 1.5,-1.611 1.5,-1.587 1.5,-1.594 1.5,-1.647 1.5,-1.752 1.5,-1.907 1.5,-2.104 1.5,-2.323 1.5,-2.546 1.5,-2.754 1.5,-2.933 1.5,-3.086 1.5,-3.216 1.5,-3.331 1.5,-3.438 1.5,-3.538 1.5,-3.627 1.5,-3.708 1.5,-3.786 1.5,-3.874 1.5,-3.985 1.5,-4.128 1.5,-4.297 1.5,-4.469 1.5,-4.614 1.5,-4.696 1.5,-4.689 1.5,-4.587 1.5,-4.402 1.5,-4.167 1.5,-3.93 1.5,-3.748 1.5,-3.675 1.5,-3.747 1.5,-3.968 1.5,-4.303 1.5,-4.665 1.5,-4.935 1.5,-4.994 1.5,-4.765 1.5,-4.271 1.5,-3.644 1.5,-3.122 1.5,-2.963 1.5,-3.34 1.5,-4.234 1.5,-5.389 1.5,-6.368 1.5,-6.703 1.5,-6.084 1.5,-4.518 1.5,-2.361 1.5,-0.207 1.5,1.337 1.5,1.872 1.5,1.356 1.5,0.092 1.5,-1.404 1.5,-2.621 1.5,-3.218 1.5,-3.115 1.5,-2.467 1.5,-1.552 1.5,-0.656 1.5,0.024 1.5,0.417 1.5,0.558 1.5,0.548 1.5,0.5 1.5,0.505 1.5,0.623 1.5,0.866 1.5,1.218 1.5,1.636 1.5,2.067 1.5,2.453 1.5,2.757 1.5,2.959 1.5,3.067 1.5,3.113 1.5,3.139 1.5,3.186 1.5,3.275 1.5,3.411 1.5,3.577 1.5,3.755 1.5,3.92 1.5,4.064 1.5,4.182 1.5,4.27 1.5,4.33 1.5,4.353 1.5,4.336 1.5,4.277 1.5,4.181 1.5,4.065 1.5,3.945 1.5,3.833 1.5,3.741 1.5,3.668 1.5,3.61 1.5,3.562 1.5,3.526 1.5,3.502 1.5,3.5 1.5,3.524 1.5,3.577 1.5,3.652 1.5,3.736 1.5,3.812 1.5,3.858 1.5,3.861 1.5,3.818 1.5,3.731 1.5,3.617 1.5,3.493 1.5,3.376 1.5,3.268 1.5,3.165 1.5,3.051 1.5,2.909 1.5,2.729 1.5,2.517 1.5,2.283 1.5,2.049 1.5,1.835 1.5,1.654 1.5,1.511 1.5,1.407 1.5,1.333 1.5,1.284 1.5,1.251 1.5,1.229 1.5,1.215 1.5,1.207 1.5,1.202 1.5,1.201 1.5,1.2 1.5,1.194 1.5,1.176 1.5,1.144 1.5,1.091 1.5,1.024 1.5,0.945 1.5,0.865 1.5,0.795 1.5,0.742 1.5,0.709 1.5,0.696 1.5,0.698 1.5,0.704 1.5,0.707 1.5,0.702 1.5,0.681 1.5,0.647 1.5,0.599 1.5,0.542 1.5,0.481 1.5,0.418 1.5,0.36 1.5,0.304 1.5,0.256 1.5,0.213 1.5,0.178 1.5,0.15 1.5,0.128 1.5,0.113 1.5,0.105 1.5,0.102 1.5,0.107 1.5,0.114 1.5,0.123 1.5,0.132 1.5,0.137 1.5,0.136 1.5,0.13 1.5,0.116 1.5,0.098 1.5,0.077 1.5,0.056 1.5,0.038 1.5,0.023 1.5,0.014 1.5,0.008 1.5,0.006"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="1, 0"
+                           id="path152" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path153" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g159">
+                  <g
+                     transform="translate(150,-28)"
+                     id="g158">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 Z"
+                       pointer-events="none"
+                       id="path155" />
+                    <g
+                       id="g157">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'majority'"
+                         pointer-events="none"
+                         id="g156">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(0,14)"
+                           font-family="sans-serif"
+                           font-size="18px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text155">majority</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path157" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path160" />
+            </g>
+            <g
+               transform="translate(326)"
+               id="g178">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m 0.5,0.5 h 300 v 300 H 0.5 Z"
+                 stroke="#dddddd"
+                 id="path161" />
+              <g
+                 id="g177">
+                <g
+                   class="mark-group role-scope child_pathgroup"
+                   role="graphics-object"
+                   aria-roledescription="group mark container"
+                   id="g172">
+                  <g
+                     id="g165">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path162" />
+                    <g
+                       id="g164">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g163">
+                        <path
+                           aria-label="G: 0; P(G): 0.0459850229082; order: fixed"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,296.058 1.5,-1.578 1.5,-2.066 1.5,-2.61 1.5,-3.18 1.5,-3.736 1.5,-4.251 1.5,-4.708 1.5,-5.113 1.5,-5.485 1.5,-5.857 1.5,-6.253 1.5,-6.686 1.5,-7.151 1.5,-7.618 1.5,-8.051 1.5,-8.411 1.5,-8.662 1.5,-8.79 1.5,-8.793 1.5,-8.688 1.5,-8.499 1.5,-8.248 1.5,-7.959 1.5,-7.642 1.5,-7.306 1.5,-6.958 1.5,-6.611 1.5,-6.283 1.5,-5.998 1.5,-5.78 1.5,-5.635 1.5,-5.559 1.5,-5.523 1.5,-5.486 1.5,-5.402 1.5,-5.232 1.5,-4.955 1.5,-4.566 1.5,-4.081 1.5,-3.518 1.5,-2.893 1.5,-2.221 1.5,-1.507 1.5,-0.763 1.5,-0.006 1.5,0.734 1.5,1.41 1.5,1.977 1.5,2.392 1.5,2.634 1.5,2.711 1.5,2.655 1.5,2.527 1.5,2.392 1.5,2.319 1.5,2.354 1.5,2.519 1.5,2.802 1.5,3.153 1.5,3.503 1.5,3.781 1.5,3.942 1.5,3.983 1.5,3.944 1.5,3.877 1.5,3.817 1.5,3.762 1.5,3.675 1.5,3.521 1.5,3.299 1.5,3.053 1.5,2.852 1.5,2.763 1.5,2.797 1.5,2.923 1.5,3.067 1.5,3.162 1.5,3.164 1.5,3.078 1.5,2.935 1.5,2.789 1.5,2.686 1.5,2.653 1.5,2.697 1.5,2.811 1.5,2.969 1.5,3.151 1.5,3.331 1.5,3.49 1.5,3.612 1.5,3.689 1.5,3.712 1.5,3.681 1.5,3.601 1.5,3.481 1.5,3.34 1.5,3.198 1.5,3.079 1.5,3.005 1.5,2.982 1.5,3.01 1.5,3.074 1.5,3.149 1.5,3.211 1.5,3.241 1.5,3.227 1.5,3.168 1.5,3.073 1.5,2.948 1.5,2.804 1.5,2.64 1.5,2.465 1.5,2.277 1.5,2.086 1.5,1.897 1.5,1.724 1.5,1.573 1.5,1.452 1.5,1.363 1.5,1.301 1.5,1.26 1.5,1.232 1.5,1.208 1.5,1.181 1.5,1.15 1.5,1.11 1.5,1.068 1.5,1.027 1.5,0.994 1.5,0.976 1.5,0.978 1.5,0.996 1.5,1.024 1.5,1.047 1.5,1.053 1.5,1.032 1.5,0.978 1.5,0.901 1.5,0.811 1.5,0.721 1.5,0.645 1.5,0.59 1.5,0.551 1.5,0.528 1.5,0.511 1.5,0.495 1.5,0.48 1.5,0.463 1.5,0.451 1.5,0.442 1.5,0.439 1.5,0.438 1.5,0.437 1.5,0.429 1.5,0.414 1.5,0.39 1.5,0.36 1.5,0.328 1.5,0.3 1.5,0.28 1.5,0.267 1.5,0.262 1.5,0.262 1.5,0.261 1.5,0.258 1.5,0.25 1.5,0.234 1.5,0.215 1.5,0.19 1.5,0.165 1.5,0.139 1.5,0.114 1.5,0.092 1.5,0.071 1.5,0.054 1.5,0.04 1.5,0.031 1.5,0.026 1.5,0.024 1.5,0.025 1.5,0.028 1.5,0.03 1.5,0.033 1.5,0.033 1.5,0.033 1.5,0.031 1.5,0.029 1.5,0.025 1.5,0.023 1.5,0.018 1.5,0.013 1.5,0.008 h 1.5 l 1.5,-0.009 1.5,-0.015 1.5,-0.021 1.5,-0.023 1.5,-0.02 1.5,-0.014 1.5,-0.003"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="8, 4"
+                           id="path163" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path164" />
+                  </g>
+                  <g
+                     id="g168">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path165" />
+                    <g
+                       id="g167">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g166">
+                        <path
+                           aria-label="G: 0; P(G): 0.0520732248295; order: random"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,295.537 1.5,-1.504 1.5,-1.923 1.5,-2.403 1.5,-2.918 1.5,-3.447 1.5,-3.968 1.5,-4.472 1.5,-4.957 1.5,-5.427 1.5,-5.884 1.5,-6.321 1.5,-6.728 1.5,-7.086 1.5,-7.383 1.5,-7.612 1.5,-7.781 1.5,-7.908 1.5,-8.013 1.5,-8.117 1.5,-8.227 1.5,-8.333 1.5,-8.412 1.5,-8.427 1.5,-8.347 1.5,-8.146 1.5,-7.826 1.5,-7.404 1.5,-6.924 1.5,-6.435 1.5,-5.987 1.5,-5.614 1.5,-5.333 1.5,-5.136 1.5,-5.002 1.5,-4.901 1.5,-4.805 1.5,-4.69 1.5,-4.547 1.5,-4.366 1.5,-4.138 1.5,-3.849 1.5,-3.483 1.5,-3.02 1.5,-2.454 1.5,-1.79 1.5,-1.05 1.5,-0.268 1.5,0.516 1.5,1.268 1.5,1.962 1.5,2.578 1.5,3.104 1.5,3.537 1.5,3.873 1.5,4.123 1.5,4.3 1.5,4.427 1.5,4.521 1.5,4.587 1.5,4.61 1.5,4.571 1.5,4.454 1.5,4.271 1.5,4.055 1.5,3.848 1.5,3.673 1.5,3.519 1.5,3.357 1.5,3.163 1.5,2.946 1.5,2.759 1.5,2.662 1.5,2.695 1.5,2.837 1.5,3.018 1.5,3.151 1.5,3.167 1.5,3.056 1.5,2.859 1.5,2.652 1.5,2.512 1.5,2.487 1.5,2.587 1.5,2.785 1.5,3.029 1.5,3.262 1.5,3.443 1.5,3.551 1.5,3.584 1.5,3.56 1.5,3.502 1.5,3.429 1.5,3.356 1.5,3.288 1.5,3.223 1.5,3.165 1.5,3.119 1.5,3.099 1.5,3.117 1.5,3.179 1.5,3.281 1.5,3.402 1.5,3.508 1.5,3.564 1.5,3.54 1.5,3.429 1.5,3.239 1.5,3 1.5,2.749 1.5,2.52 1.5,2.337 1.5,2.209 1.5,2.127 1.5,2.083 1.5,2.056 1.5,2.037 1.5,2.014 1.5,1.984 1.5,1.943 1.5,1.89 1.5,1.822 1.5,1.736 1.5,1.636 1.5,1.523 1.5,1.404 1.5,1.285 1.5,1.171 1.5,1.066 1.5,0.967 1.5,0.871 1.5,0.777 1.5,0.682 1.5,0.593 1.5,0.511 1.5,0.448 1.5,0.405 1.5,0.388 1.5,0.394 1.5,0.416 1.5,0.445 1.5,0.475 1.5,0.499 1.5,0.512 1.5,0.517 1.5,0.515 1.5,0.505 1.5,0.491 1.5,0.47 1.5,0.444 1.5,0.413 1.5,0.383 1.5,0.358 1.5,0.344 1.5,0.341 1.5,0.351 1.5,0.371 1.5,0.393 1.5,0.415 1.5,0.426 1.5,0.425 1.5,0.408 1.5,0.378 1.5,0.336 1.5,0.29 1.5,0.244 1.5,0.206 1.5,0.179 1.5,0.162 1.5,0.155 1.5,0.153 1.5,0.153 1.5,0.146 1.5,0.132 1.5,0.112 1.5,0.083 1.5,0.051 1.5,0.018 1.5,-0.01 1.5,-0.034 1.5,-0.05 1.5,-0.055 1.5,-0.051 1.5,-0.038 1.5,-0.016 1.5,0.009 1.5,0.037 1.5,0.059 1.5,0.076 1.5,0.084 1.5,0.081 1.5,0.07 1.5,0.052 1.5,0.03 1.5,0.007 1.5,-0.013 1.5,-0.028 1.5,-0.035 1.5,-0.033 1.5,-0.022 1.5,-0.006"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="4, 8"
+                           id="path166" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path167" />
+                  </g>
+                  <g
+                     id="g171">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path168" />
+                    <g
+                       id="g170">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g169">
+                        <path
+                           aria-label="G: 0; P(G): 0.0498801146424; order: community"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,295.725 1.5,-1.599 1.5,-2.061 1.5,-2.574 1.5,-3.105 1.5,-3.63 1.5,-4.13 1.5,-4.613 1.5,-5.092 1.5,-5.6 1.5,-6.15 1.5,-6.746 1.5,-7.358 1.5,-7.944 1.5,-8.45 1.5,-8.838 1.5,-9.089 1.5,-9.212 1.5,-9.234 1.5,-9.195 1.5,-9.129 1.5,-9.054 1.5,-8.974 1.5,-8.876 1.5,-8.748 1.5,-8.577 1.5,-8.354 1.5,-8.083 1.5,-7.768 1.5,-7.407 1.5,-7.002 1.5,-6.546 1.5,-6.036 1.5,-5.475 1.5,-4.865 1.5,-4.221 1.5,-3.561 1.5,-2.908 1.5,-2.295 1.5,-1.75 1.5,-1.294 1.5,-0.934 1.5,-0.657 1.5,-0.433 1.5,-0.231 1.5,-0.018 1.5,0.226 1.5,0.501 1.5,0.806 1.5,1.127 1.5,1.452 1.5,1.77 1.5,2.072 1.5,2.352 1.5,2.615 1.5,2.877 1.5,3.166 1.5,3.512 1.5,3.929 1.5,4.392 1.5,4.841 1.5,5.194 1.5,5.38 1.5,5.382 1.5,5.236 1.5,5.014 1.5,4.778 1.5,4.545 1.5,4.29 1.5,3.978 1.5,3.608 1.5,3.224 1.5,2.904 1.5,2.714 1.5,2.667 1.5,2.726 1.5,2.82 1.5,2.887 1.5,2.899 1.5,2.865 1.5,2.821 1.5,2.801 1.5,2.828 1.5,2.904 1.5,3.017 1.5,3.144 1.5,3.267 1.5,3.37 1.5,3.442 1.5,3.482 1.5,3.496 1.5,3.487 1.5,3.461 1.5,3.416 1.5,3.351 1.5,3.26 1.5,3.144 1.5,3.008 1.5,2.873 1.5,2.756 1.5,2.677 1.5,2.649 1.5,2.669 1.5,2.725 1.5,2.794 1.5,2.851 1.5,2.875 1.5,2.852 1.5,2.783 1.5,2.682 1.5,2.565 1.5,2.456 1.5,2.366 1.5,2.305 1.5,2.265 1.5,2.232 1.5,2.19 1.5,2.124 1.5,2.021 1.5,1.882 1.5,1.717 1.5,1.538 1.5,1.367 1.5,1.22 1.5,1.107 1.5,1.032 1.5,0.985 1.5,0.954 1.5,0.922 1.5,0.877 1.5,0.813 1.5,0.733 1.5,0.646 1.5,0.565 1.5,0.499 1.5,0.461 1.5,0.451 1.5,0.473 1.5,0.518 1.5,0.575 1.5,0.632 1.5,0.671 1.5,0.687 1.5,0.675 1.5,0.642 1.5,0.599 1.5,0.562 1.5,0.541 1.5,0.539 1.5,0.552 1.5,0.572 1.5,0.585 1.5,0.583 1.5,0.56 1.5,0.517 1.5,0.458 1.5,0.39 1.5,0.319 1.5,0.253 1.5,0.197 1.5,0.149 1.5,0.114 1.5,0.087 1.5,0.069 1.5,0.058 1.5,0.05 1.5,0.049 1.5,0.053 1.5,0.061 1.5,0.074 1.5,0.088 1.5,0.101 1.5,0.11 1.5,0.112 1.5,0.108 1.5,0.098 1.5,0.084 1.5,0.069 1.5,0.053 1.5,0.04 1.5,0.028 1.5,0.02 1.5,0.015 1.5,0.012 1.5,0.014 1.5,0.017 1.5,0.022 1.5,0.027 1.5,0.032 1.5,0.033 1.5,0.031 1.5,0.024 1.5,0.013 1.5,10e-4 1.5,-0.014 1.5,-0.027 1.5,-0.036 1.5,-0.039 1.5,-0.034 1.5,-0.024 1.5,-0.008"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="1, 0"
+                           id="path169" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path170" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g176">
+                  <g
+                     transform="translate(150,-28)"
+                     id="g175">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 Z"
+                       pointer-events="none"
+                       id="path172" />
+                    <g
+                       id="g174">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'max'"
+                         pointer-events="none"
+                         id="g173">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(0,14)"
+                           font-family="sans-serif"
+                           font-size="18px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text172">max</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path174" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path177" />
+            </g>
+            <g
+               transform="translate(652)"
+               id="g195">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m 0.5,0.5 h 300 v 300 H 0.5 Z"
+                 stroke="#dddddd"
+                 id="path178" />
+              <g
+                 id="g194">
+                <g
+                   class="mark-group role-scope child_pathgroup"
+                   role="graphics-object"
+                   aria-roledescription="group mark container"
+                   id="g189">
+                  <g
+                     id="g182">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path179" />
+                    <g
+                       id="g181">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g180">
+                        <path
+                           aria-label="G: 0; P(G): 0.0954442342346; order: fixed"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,291.819 1.5,0.004 1.5,0.255 1.5,0.319 1.5,0.134 1.5,-0.324 1.5,-1.037 1.5,-1.951 1.5,-2.977 1.5,-4.017 1.5,-4.961 1.5,-5.711 1.5,-6.194 1.5,-6.368 1.5,-6.241 1.5,-5.864 1.5,-5.324 1.5,-4.738 1.5,-4.223 1.5,-3.885 1.5,-3.788 1.5,-3.942 1.5,-4.305 1.5,-4.783 1.5,-5.27 1.5,-5.674 1.5,-5.948 1.5,-6.09 1.5,-6.127 1.5,-6.089 1.5,-5.983 1.5,-5.798 1.5,-5.525 1.5,-5.195 1.5,-4.882 1.5,-4.7 1.5,-4.741 1.5,-5.032 1.5,-5.497 1.5,-5.979 1.5,-6.297 1.5,-6.311 1.5,-5.984 1.5,-5.372 1.5,-4.613 1.5,-3.862 1.5,-3.251 1.5,-2.872 1.5,-2.764 1.5,-2.908 1.5,-3.218 1.5,-3.511 1.5,-3.527 1.5,-2.973 1.5,-1.643 1.5,0.445 1.5,2.943 1.5,5.172 1.5,6.273 1.5,5.488 1.5,2.513 1.5,-2.253 1.5,-7.673 1.5,-12.121 1.5,-13.987 1.5,-12.266 1.5,-6.99 1.5,0.688 1.5,8.82 1.5,15.294 1.5,18.526 1.5,17.943 1.5,14.09 1.5,8.347 1.5,2.41 1.5,-2.242 1.5,-4.731 1.5,-4.903 1.5,-3.213 1.5,-0.46 1.5,2.503 1.5,5.005 1.5,6.678 1.5,7.457 1.5,7.495 1.5,7.059 1.5,6.404 1.5,5.723 1.5,5.112 1.5,4.59 1.5,4.138 1.5,3.733 1.5,3.377 1.5,3.102 1.5,2.956 1.5,2.976 1.5,3.161 1.5,3.464 1.5,3.801 1.5,4.072 1.5,4.201 1.5,4.154 1.5,3.95 1.5,3.644 1.5,3.306 1.5,2.998 1.5,2.755 1.5,2.585 1.5,2.48 1.5,2.42 1.5,2.385 1.5,2.364 1.5,2.343 1.5,2.32 1.5,2.287 1.5,2.245 1.5,2.19 1.5,2.126 1.5,2.056 1.5,1.987 1.5,1.93 1.5,1.898 1.5,1.895 1.5,1.918 1.5,1.949 1.5,1.96 1.5,1.91 1.5,1.779 1.5,1.564 1.5,1.294 1.5,1.032 1.5,0.838 1.5,0.764 1.5,0.816 1.5,0.957 1.5,1.123 1.5,1.249 1.5,1.292 1.5,1.252 1.5,1.162 1.5,1.065 1.5,0.997 1.5,0.971 1.5,0.982 1.5,1.005 1.5,1.02 1.5,1.013 1.5,0.98 1.5,0.924 1.5,0.854 1.5,0.776 1.5,0.696 1.5,0.623 1.5,0.56 1.5,0.516 1.5,0.49 1.5,0.478 1.5,0.477 1.5,0.472 1.5,0.463 1.5,0.442 1.5,0.414 1.5,0.383 1.5,0.354 1.5,0.33 1.5,0.314 1.5,0.3 1.5,0.289 1.5,0.274 1.5,0.254 1.5,0.229 1.5,0.201 1.5,0.171 1.5,0.142 1.5,0.117 1.5,0.094 1.5,0.075 1.5,0.056 1.5,0.039 1.5,0.024 1.5,0.015 1.5,0.013 1.5,0.023 1.5,0.041 1.5,0.067 1.5,0.096 1.5,0.124 1.5,0.145 1.5,0.157 1.5,0.159 1.5,0.15 1.5,0.132 1.5,0.108 1.5,0.082 1.5,0.056 1.5,0.032 1.5,0.014 1.5,0.002 1.5,-0.004 1.5,-0.004 h 1.5"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="8, 4"
+                           id="path180" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path181" />
+                  </g>
+                  <g
+                     id="g185">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path182" />
+                    <g
+                       id="g184">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g183">
+                        <path
+                           aria-label="G: 0; P(G): 0.0822680537994; order: random"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,292.948 1.5,-0.2 1.5,-0.116 1.5,-0.205 1.5,-0.511 1.5,-1.051 1.5,-1.8 1.5,-2.7 1.5,-3.669 1.5,-4.606 1.5,-5.413 1.5,-6.006 1.5,-6.323 1.5,-6.342 1.5,-6.081 1.5,-5.598 1.5,-4.985 1.5,-4.361 1.5,-3.843 1.5,-3.539 1.5,-3.511 1.5,-3.768 1.5,-4.256 1.5,-4.873 1.5,-5.49 1.5,-5.993 1.5,-6.308 1.5,-6.403 1.5,-6.295 1.5,-6.022 1.5,-5.625 1.5,-5.141 1.5,-4.619 1.5,-4.119 1.5,-3.729 1.5,-3.543 1.5,-3.639 1.5,-4.032 1.5,-4.659 1.5,-5.39 1.5,-6.053 1.5,-6.492 1.5,-6.606 1.5,-6.372 1.5,-5.841 1.5,-5.123 1.5,-4.349 1.5,-3.651 1.5,-3.127 1.5,-2.819 1.5,-2.683 1.5,-2.584 1.5,-2.31 1.5,-1.637 1.5,-0.422 1.5,1.283 1.5,3.175 1.5,4.713 1.5,5.261 1.5,4.305 1.5,1.699 1.5,-2.164 1.5,-6.362 1.5,-9.659 1.5,-10.88 1.5,-9.327 1.5,-5.078 1.5,0.975 1.5,7.361 1.5,12.497 1.5,15.169 1.5,14.896 1.5,12.025 1.5,7.546 1.5,2.743 1.5,-1.214 1.5,-3.567 1.5,-4.093 1.5,-3.056 1.5,-1.035 1.5,1.308 1.5,3.402 1.5,4.89 1.5,5.654 1.5,5.774 1.5,5.446 1.5,4.902 1.5,4.336 1.5,3.876 1.5,3.577 1.5,3.434 1.5,3.419 1.5,3.498 1.5,3.649 1.5,3.861 1.5,4.128 1.5,4.429 1.5,4.728 1.5,4.978 1.5,5.126 1.5,5.137 1.5,5.006 1.5,4.755 1.5,4.431 1.5,4.088 1.5,3.775 1.5,3.521 1.5,3.338 1.5,3.216 1.5,3.137 1.5,3.073 1.5,3.005 1.5,2.911 1.5,2.78 1.5,2.607 1.5,2.396 1.5,2.162 1.5,1.923 1.5,1.707 1.5,1.536 1.5,1.434 1.5,1.406 1.5,1.453 1.5,1.552 1.5,1.668 1.5,1.761 1.5,1.793 1.5,1.739 1.5,1.602 1.5,1.405 1.5,1.198 1.5,1.027 1.5,0.929 1.5,0.911 1.5,0.951 1.5,1.013 1.5,1.052 1.5,1.046 1.5,0.992 1.5,0.913 1.5,0.835 1.5,0.783 1.5,0.768 1.5,0.784 1.5,0.815 1.5,0.841 1.5,0.853 1.5,0.843 1.5,0.817 1.5,0.778 1.5,0.737 1.5,0.7 1.5,0.673 1.5,0.657 1.5,0.648 1.5,0.647 1.5,0.642 1.5,0.63 1.5,0.6 1.5,0.553 1.5,0.488 1.5,0.411 1.5,0.332 1.5,0.259 1.5,0.197 1.5,0.153 1.5,0.125 1.5,0.11 1.5,0.106 1.5,0.106 1.5,0.111 1.5,0.116 1.5,0.121 1.5,0.125 1.5,0.128 1.5,0.127 1.5,0.122 1.5,0.112 1.5,0.097 1.5,0.081 1.5,0.066 1.5,0.056 1.5,0.053 1.5,0.059 1.5,0.075 1.5,0.097 1.5,0.121 1.5,0.144 1.5,0.16 1.5,0.167 1.5,0.164 1.5,0.15 1.5,0.131 1.5,0.106 1.5,0.082 1.5,0.059 1.5,0.04 1.5,0.024 1.5,0.015 1.5,0.01 1.5,0.007"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="4, 8"
+                           id="path183" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path184" />
+                  </g>
+                  <g
+                     id="g188">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path185" />
+                    <g
+                       id="g187">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g186">
+                        <path
+                           aria-label="G: 0; P(G): 0.0189566299531; order: community"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,298.375 1.5,-0.13 1.5,-0.155 1.5,-0.226 1.5,-0.353 1.5,-0.533 1.5,-0.756 1.5,-1.006 1.5,-1.255 1.5,-1.483 1.5,-1.668 1.5,-1.799 1.5,-1.877 1.5,-1.91 1.5,-1.919 1.5,-1.922 1.5,-1.944 1.5,-1.996 1.5,-2.088 1.5,-2.217 1.5,-2.374 1.5,-2.546 1.5,-2.719 1.5,-2.884 1.5,-3.034 1.5,-3.175 1.5,-3.315 1.5,-3.462 1.5,-3.623 1.5,-3.789 1.5,-3.945 1.5,-4.067 1.5,-4.141 1.5,-4.16 1.5,-4.136 1.5,-4.096 1.5,-4.075 1.5,-4.093 1.5,-4.16 1.5,-4.259 1.5,-4.362 1.5,-4.437 1.5,-4.458 1.5,-4.417 1.5,-4.328 1.5,-4.217 1.5,-4.125 1.5,-4.091 1.5,-4.157 1.5,-4.337 1.5,-4.625 1.5,-4.968 1.5,-5.272 1.5,-5.413 1.5,-5.273 1.5,-4.791 1.5,-4.006 1.5,-3.088 1.5,-2.306 1.5,-1.951 1.5,-2.219 1.5,-3.094 1.5,-4.308 1.5,-5.401 1.5,-5.871 1.5,-5.381 1.5,-3.917 1.5,-1.822 1.5,0.312 1.5,1.865 1.5,2.422 1.5,1.923 1.5,0.662 1.5,-0.852 1.5,-2.098 1.5,-2.721 1.5,-2.624 1.5,-1.95 1.5,-0.98 1.5,-0.004 1.5,0.767 1.5,1.245 1.5,1.452 1.5,1.478 1.5,1.432 1.5,1.404 1.5,1.453 1.5,1.606 1.5,1.851 1.5,2.163 1.5,2.496 1.5,2.801 1.5,3.037 1.5,3.182 1.5,3.237 1.5,3.227 1.5,3.194 1.5,3.176 1.5,3.202 1.5,3.272 1.5,3.376 1.5,3.486 1.5,3.581 1.5,3.647 1.5,3.682 1.5,3.696 1.5,3.695 1.5,3.683 1.5,3.661 1.5,3.623 1.5,3.564 1.5,3.486 1.5,3.399 1.5,3.318 1.5,3.264 1.5,3.258 1.5,3.315 1.5,3.439 1.5,3.625 1.5,3.849 1.5,4.086 1.5,4.298 1.5,4.45 1.5,4.513 1.5,4.465 1.5,4.304 1.5,4.041 1.5,3.706 1.5,3.334 1.5,2.978 1.5,2.68 1.5,2.475 1.5,2.378 1.5,2.378 1.5,2.441 1.5,2.52 1.5,2.568 1.5,2.545 1.5,2.441 1.5,2.262 1.5,2.035 1.5,1.796 1.5,1.58 1.5,1.413 1.5,1.309 1.5,1.27 1.5,1.282 1.5,1.328 1.5,1.383 1.5,1.426 1.5,1.441 1.5,1.418 1.5,1.363 1.5,1.283 1.5,1.194 1.5,1.11 1.5,1.04 1.5,0.99 1.5,0.961 1.5,0.946 1.5,0.937 1.5,0.922 1.5,0.896 1.5,0.854 1.5,0.795 1.5,0.723 1.5,0.646 1.5,0.572 1.5,0.507 1.5,0.458 1.5,0.423 1.5,0.4 1.5,0.382 1.5,0.365 1.5,0.343 1.5,0.315 1.5,0.278 1.5,0.238 1.5,0.193 1.5,0.148 1.5,0.108 1.5,0.071 1.5,0.044 1.5,0.027 1.5,0.019 1.5,0.023 1.5,0.034 1.5,0.053 1.5,0.073 1.5,0.092 1.5,0.105 1.5,0.109 1.5,0.107 1.5,0.094 1.5,0.078 1.5,0.058 1.5,0.038 1.5,0.023 1.5,0.014 1.5,0.009 1.5,0.012"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="1, 0"
+                           id="path186" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path187" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g193">
+                  <g
+                     transform="translate(150,-28)"
+                     id="g192">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 Z"
+                       pointer-events="none"
+                       id="path189" />
+                    <g
+                       id="g191">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'min'"
+                         pointer-events="none"
+                         id="g190">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(0,14)"
+                           font-family="sans-serif"
+                           font-size="18px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text189">min</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path191" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path194" />
+            </g>
+            <g
+               transform="translate(978)"
+               id="g212">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m 0.5,0.5 h 300 v 300 H 0.5 Z"
+                 stroke="#dddddd"
+                 id="path195" />
+              <g
+                 id="g211">
+                <g
+                   class="mark-group role-scope child_pathgroup"
+                   role="graphics-object"
+                   aria-roledescription="group mark container"
+                   id="g206">
+                  <g
+                     id="g199">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path196" />
+                    <g
+                       id="g198">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g197">
+                        <path
+                           aria-label="G: 0; P(G): 0.0343990648577; order: fixed"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,297.052 1.5,-0.343 1.5,-0.433 1.5,-0.603 1.5,-0.857 1.5,-1.188 1.5,-1.569 1.5,-1.965 1.5,-2.33 1.5,-2.628 1.5,-2.829 1.5,-2.927 1.5,-2.929 1.5,-2.866 1.5,-2.775 1.5,-2.701 1.5,-2.675 1.5,-2.722 1.5,-2.849 1.5,-3.05 1.5,-3.305 1.5,-3.591 1.5,-3.883 1.5,-4.166 1.5,-4.425 1.5,-4.663 1.5,-4.883 1.5,-5.089 1.5,-5.279 1.5,-5.436 1.5,-5.539 1.5,-5.559 1.5,-5.482 1.5,-5.313 1.5,-5.087 1.5,-4.857 1.5,-4.685 1.5,-4.618 1.5,-4.674 1.5,-4.834 1.5,-5.042 1.5,-5.221 1.5,-5.303 1.5,-5.23 1.5,-4.988 1.5,-4.602 1.5,-4.131 1.5,-3.66 1.5,-3.281 1.5,-3.064 1.5,-3.047 1.5,-3.203 1.5,-3.453 1.5,-3.66 1.5,-3.681 1.5,-3.407 1.5,-2.82 1.5,-2.019 1.5,-1.209 1.5,-0.641 1.5,-0.511 1.5,-0.861 1.5,-1.538 1.5,-2.223 1.5,-2.54 1.5,-2.225 1.5,-1.233 1.5,0.21 1.5,1.693 1.5,2.781 1.5,3.18 1.5,2.859 1.5,2.039 1.5,1.097 1.5,0.401 1.5,0.184 1.5,0.468 1.5,1.101 1.5,1.834 1.5,2.436 1.5,2.764 1.5,2.793 1.5,2.601 1.5,2.308 1.5,2.04 1.5,1.881 1.5,1.87 1.5,1.997 1.5,2.228 1.5,2.512 1.5,2.803 1.5,3.065 1.5,3.275 1.5,3.431 1.5,3.538 1.5,3.612 1.5,3.668 1.5,3.716 1.5,3.754 1.5,3.776 1.5,3.77 1.5,3.738 1.5,3.688 1.5,3.642 1.5,3.626 1.5,3.659 1.5,3.743 1.5,3.866 1.5,3.997 1.5,4.103 1.5,4.155 1.5,4.138 1.5,4.046 1.5,3.893 1.5,3.692 1.5,3.462 1.5,3.221 1.5,2.979 1.5,2.752 1.5,2.55 1.5,2.383 1.5,2.258 1.5,2.176 1.5,2.131 1.5,2.113 1.5,2.106 1.5,2.098 1.5,2.082 1.5,2.054 1.5,2.016 1.5,1.975 1.5,1.933 1.5,1.893 1.5,1.853 1.5,1.806 1.5,1.746 1.5,1.673 1.5,1.591 1.5,1.511 1.5,1.446 1.5,1.405 1.5,1.39 1.5,1.396 1.5,1.412 1.5,1.423 1.5,1.419 1.5,1.394 1.5,1.348 1.5,1.281 1.5,1.201 1.5,1.111 1.5,1.017 1.5,0.922 1.5,0.832 1.5,0.746 1.5,0.672 1.5,0.609 1.5,0.559 1.5,0.527 1.5,0.509 1.5,0.508 1.5,0.519 1.5,0.542 1.5,0.571 1.5,0.602 1.5,0.63 1.5,0.651 1.5,0.659 1.5,0.655 1.5,0.634 1.5,0.598 1.5,0.545 1.5,0.481 1.5,0.406 1.5,0.326 1.5,0.246 1.5,0.172 1.5,0.107 1.5,0.055 1.5,0.017 1.5,-0.006 1.5,-0.017 1.5,-0.019 1.5,-0.01 1.5,0.006 1.5,0.028 1.5,0.055 1.5,0.086 1.5,0.117 1.5,0.145 1.5,0.165 1.5,0.174 1.5,0.172 1.5,0.157 1.5,0.135 1.5,0.106 1.5,0.079 1.5,0.054 1.5,0.036 1.5,0.025 1.5,0.021"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="8, 4"
+                           id="path197" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path198" />
+                  </g>
+                  <g
+                     id="g202">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path199" />
+                    <g
+                       id="g201">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g200">
+                        <path
+                           aria-label="G: 0; P(G): 0.0211721968725; order: random"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,298.185 1.5,-0.351 1.5,-0.479 1.5,-0.671 1.5,-0.931 1.5,-1.25 1.5,-1.608 1.5,-1.979 1.5,-2.328 1.5,-2.628 1.5,-2.856 1.5,-3.004 1.5,-3.079 1.5,-3.1 1.5,-3.091 1.5,-3.079 1.5,-3.09 1.5,-3.136 1.5,-3.228 1.5,-3.365 1.5,-3.543 1.5,-3.751 1.5,-3.975 1.5,-4.203 1.5,-4.423 1.5,-4.624 1.5,-4.8 1.5,-4.948 1.5,-5.057 1.5,-5.122 1.5,-5.129 1.5,-5.068 1.5,-4.944 1.5,-4.774 1.5,-4.594 1.5,-4.447 1.5,-4.373 1.5,-4.388 1.5,-4.481 1.5,-4.617 1.5,-4.737 1.5,-4.791 1.5,-4.739 1.5,-4.576 1.5,-4.319 1.5,-4.013 1.5,-3.711 1.5,-3.467 1.5,-3.326 1.5,-3.314 1.5,-3.427 1.5,-3.629 1.5,-3.839 1.5,-3.954 1.5,-3.86 1.5,-3.484 1.5,-2.83 1.5,-2.011 1.5,-1.238 1.5,-0.754 1.5,-0.747 1.5,-1.242 1.5,-2.062 1.5,-2.858 1.5,-3.23 1.5,-2.895 1.5,-1.817 1.5,-0.25 1.5,1.348 1.5,2.49 1.5,2.854 1.5,2.398 1.5,1.363 1.5,0.168 1.5,-0.767 1.5,-1.164 1.5,-0.959 1.5,-0.281 1.5,0.631 1.5,1.537 1.5,2.268 1.5,2.767 1.5,3.055 1.5,3.207 1.5,3.299 1.5,3.376 1.5,3.454 1.5,3.521 1.5,3.556 1.5,3.545 1.5,3.49 1.5,3.411 1.5,3.335 1.5,3.295 1.5,3.312 1.5,3.394 1.5,3.53 1.5,3.691 1.5,3.845 1.5,3.958 1.5,4.011 1.5,3.999 1.5,3.942 1.5,3.867 1.5,3.804 1.5,3.776 1.5,3.789 1.5,3.831 1.5,3.879 1.5,3.904 1.5,3.881 1.5,3.801 1.5,3.667 1.5,3.498 1.5,3.317 1.5,3.15 1.5,3.015 1.5,2.924 1.5,2.872 1.5,2.854 1.5,2.856 1.5,2.864 1.5,2.868 1.5,2.853 1.5,2.816 1.5,2.749 1.5,2.646 1.5,2.513 1.5,2.354 1.5,2.181 1.5,2.008 1.5,1.85 1.5,1.72 1.5,1.619 1.5,1.547 1.5,1.494 1.5,1.451 1.5,1.414 1.5,1.377 1.5,1.343 1.5,1.312 1.5,1.287 1.5,1.262 1.5,1.239 1.5,1.21 1.5,1.177 1.5,1.141 1.5,1.106 1.5,1.073 1.5,1.048 1.5,1.033 1.5,1.023 1.5,1.016 1.5,1.006 1.5,0.986 1.5,0.953 1.5,0.904 1.5,0.841 1.5,0.767 1.5,0.688 1.5,0.61 1.5,0.538 1.5,0.478 1.5,0.432 1.5,0.399 1.5,0.377 1.5,0.366 1.5,0.361 1.5,0.358 1.5,0.356 1.5,0.354 1.5,0.35 1.5,0.342 1.5,0.332 1.5,0.317 1.5,0.298 1.5,0.272 1.5,0.24 1.5,0.204 1.5,0.164 1.5,0.125 1.5,0.092 1.5,0.067 1.5,0.052 1.5,0.051 1.5,0.06 1.5,0.077 1.5,0.1 1.5,0.121 1.5,0.139 1.5,0.148 1.5,0.15 1.5,0.141 1.5,0.126 1.5,0.105 1.5,0.083 1.5,0.061 1.5,0.043 1.5,0.03 1.5,0.021 1.5,0.018"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="4, 8"
+                           id="path200" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path201" />
+                  </g>
+                  <g
+                     id="g205">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 H 300 V 300 H 0 Z"
+                       id="path202" />
+                    <g
+                       id="g204">
+                      <g
+                         class="mark-line role-mark child_marks"
+                         role="graphics-object"
+                         aria-roledescription="line mark container"
+                         id="g203">
+                        <path
+                           aria-label="G: 0; P(G): 0.0172496225396; order: community"
+                           role="graphics-symbol"
+                           aria-roledescription="line mark"
+                           d="m 0,298.521 1.5,-0.32 1.5,-0.434 1.5,-0.598 1.5,-0.807 1.5,-1.051 1.5,-1.312 1.5,-1.562 1.5,-1.775 1.5,-1.935 1.5,-2.033 1.5,-2.075 1.5,-2.081 1.5,-2.076 1.5,-2.089 1.5,-2.144 1.5,-2.259 1.5,-2.436 1.5,-2.674 1.5,-2.958 1.5,-3.271 1.5,-3.592 1.5,-3.897 1.5,-4.168 1.5,-4.389 1.5,-4.551 1.5,-4.656 1.5,-4.708 1.5,-4.716 1.5,-4.691 1.5,-4.636 1.5,-4.55 1.5,-4.438 1.5,-4.299 1.5,-4.147 1.5,-4.002 1.5,-3.887 1.5,-3.82 1.5,-3.817 1.5,-3.873 1.5,-3.979 1.5,-4.113 1.5,-4.255 1.5,-4.385 1.5,-4.491 1.5,-4.568 1.5,-4.616 1.5,-4.642 1.5,-4.654 1.5,-4.671 1.5,-4.699 1.5,-4.745 1.5,-4.787 1.5,-4.778 1.5,-4.652 1.5,-4.341 1.5,-3.814 1.5,-3.11 1.5,-2.351 1.5,-1.72 1.5,-1.388 1.5,-1.435 1.5,-1.795 1.5,-2.25 1.5,-2.516 1.5,-2.37 1.5,-1.759 1.5,-0.844 1.5,0.068 1.5,0.652 1.5,0.718 1.5,0.301 1.5,-0.372 1.5,-0.973 1.5,-1.23 1.5,-1.022 1.5,-0.413 1.5,0.404 1.5,1.193 1.5,1.774 1.5,2.067 1.5,2.1 1.5,1.966 1.5,1.786 1.5,1.661 1.5,1.65 1.5,1.774 1.5,2.016 1.5,2.336 1.5,2.687 1.5,3.022 1.5,3.304 1.5,3.512 1.5,3.642 1.5,3.707 1.5,3.732 1.5,3.743 1.5,3.762 1.5,3.794 1.5,3.842 1.5,3.889 1.5,3.926 1.5,3.945 1.5,3.944 1.5,3.93 1.5,3.913 1.5,3.892 1.5,3.87 1.5,3.841 1.5,3.796 1.5,3.73 1.5,3.645 1.5,3.546 1.5,3.443 1.5,3.352 1.5,3.282 1.5,3.247 1.5,3.247 1.5,3.28 1.5,3.338 1.5,3.405 1.5,3.464 1.5,3.496 1.5,3.489 1.5,3.432 1.5,3.328 1.5,3.186 1.5,3.022 1.5,2.855 1.5,2.699 1.5,2.569 1.5,2.465 1.5,2.387 1.5,2.326 1.5,2.27 1.5,2.207 1.5,2.129 1.5,2.037 1.5,1.93 1.5,1.818 1.5,1.711 1.5,1.61 1.5,1.522 1.5,1.447 1.5,1.381 1.5,1.321 1.5,1.263 1.5,1.201 1.5,1.128 1.5,1.042 1.5,0.942 1.5,0.835 1.5,0.73 1.5,0.638 1.5,0.571 1.5,0.534 1.5,0.525 1.5,0.54 1.5,0.568 1.5,0.601 1.5,0.631 1.5,0.655 1.5,0.673 1.5,0.685 1.5,0.693 1.5,0.695 1.5,0.688 1.5,0.671 1.5,0.64 1.5,0.595 1.5,0.537 1.5,0.472 1.5,0.402 1.5,0.335 1.5,0.272 1.5,0.219 1.5,0.178 1.5,0.146 1.5,0.125 1.5,0.11 1.5,0.103 1.5,0.097 1.5,0.096 1.5,0.095 1.5,0.096 1.5,0.097 1.5,0.1 1.5,0.104 1.5,0.105 1.5,0.105 1.5,0.101 1.5,0.094 1.5,0.083 1.5,0.067 1.5,0.05 1.5,0.034 1.5,0.02 1.5,0.009 1.5,0.003 1.5,0.002 1.5,0.004"
+                           stroke="#9995c6"
+                           stroke-width="2"
+                           stroke-dasharray="1, 0"
+                           id="path203" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       display="none"
+                       id="path204" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g210">
+                  <g
+                     transform="translate(150,-28)"
+                     id="g209">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 Z"
+                       pointer-events="none"
+                       id="path206" />
+                    <g
+                       id="g208">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'weighted'"
+                         pointer-events="none"
+                         id="g207">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(0,14)"
+                           font-family="sans-serif"
+                           font-size="18px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text206">weighted</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path208" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path211" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-legend"
+             role="graphics-symbol"
+             aria-roledescription="legend"
+             aria-label="Symbol legend titled 'order' for strokeDash with 3 values: community, fixed, random"
+             id="g235">
+            <g
+               transform="translate(1299)"
+               id="g234">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 113 V 101 H 0 Z"
+                 pointer-events="none"
+                 id="path213" />
+              <g
+                 id="g233">
+                <g
+                   class="mark-group role-legend-entry"
+                   id="g231">
+                  <g
+                     transform="translate(0,25)"
+                     id="g230">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 Z"
+                       pointer-events="none"
+                       id="path214" />
+                    <g
+                       id="g229">
+                      <g
+                         class="mark-group role-scope"
+                         role="graphics-object"
+                         aria-roledescription="group mark container"
+                         id="g228">
+                        <g
+                           id="g219">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M 0,0 H 112.35156 V 23.5 H 0 Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path215" />
+                          <g
+                             id="g218">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g216">
+                              <path
+                                 transform="translate(15.5,15.5)"
+                                 d="M -13.693,0 H 13.693"
+                                 stroke="#9995c6"
+                                 stroke-width="3"
+                                 stroke-dasharray="1, 0"
+                                 opacity="1"
+                                 id="path216" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g217">
+                              <text
+                                 text-anchor="start"
+                                 transform="translate(35,20.5)"
+                                 font-family="sans-serif"
+                                 font-size="16px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text216">community</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path218" />
+                        </g>
+                        <g
+                           transform="translate(0,26)"
+                           id="g223">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M 0,0 H 112.35156 V 23.5 H 0 Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path219" />
+                          <g
+                             id="g222">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g220">
+                              <path
+                                 transform="translate(15.5,15.5)"
+                                 d="M -13.693,0 H 13.693"
+                                 stroke="#9995c6"
+                                 stroke-width="3"
+                                 stroke-dasharray="8, 4"
+                                 opacity="1"
+                                 id="path220" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g221">
+                              <text
+                                 text-anchor="start"
+                                 transform="translate(35,20.5)"
+                                 font-family="sans-serif"
+                                 font-size="16px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text220">fixed</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path222" />
+                        </g>
+                        <g
+                           transform="translate(0,52)"
+                           id="g227">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M 0,0 H 112.35156 V 23.5 H 0 Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path223" />
+                          <g
+                             id="g226">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g224">
+                              <path
+                                 transform="translate(15.5,15.5)"
+                                 d="M -13.693,0 H 13.693"
+                                 stroke="#9995c6"
+                                 stroke-width="3"
+                                 stroke-dasharray="4, 8"
+                                 opacity="1"
+                                 id="path224" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g225">
+                              <text
+                                 text-anchor="start"
+                                 transform="translate(35,20.5)"
+                                 font-family="sans-serif"
+                                 font-size="16px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text224">random</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path226" />
+                        </g>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path229" />
+                  </g>
+                </g>
+                <g
+                   class="mark-text role-legend-title"
+                   pointer-events="none"
+                   id="g232">
+                  <text
+                     text-anchor="start"
+                     transform="translate(0,16)"
+                     font-family="sans-serif"
+                     font-size="20px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text231">order</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path233" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path236" />
+      </g>
+    </g>
+  </g>
+</svg>
