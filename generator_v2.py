@@ -85,6 +85,9 @@ class Generator:
             for i in range(n_coms):
                 self.community_array += [i for x in range(n_nodes // n_coms)]
 
+        self.fixed_random_order = list(range(self.n_nodes))
+        random.shuffle(self.fixed_random_order)
+
     def init_graph(self):
         self.G = nx.Graph()
         # self.node_to_com = {}
@@ -96,17 +99,25 @@ class Generator:
             # self.G.add_node(str(idnode), type=self.node_type, name=name, community=str(community))
             self.G.add_node("p" + str(idnode), type=self.node_type, name=name, community=community)
 
-    def run(self):
+    def run(self, order_strat="random"):
         self.init_graph()
 
         for hedge in range(self.n_hedges):
+
             nodes = list(range(self.n_nodes))
-            random.shuffle(nodes)
+            # random.shuffle(nodes)
+
+            match order_strat:
+                case "random":
+                    random.shuffle(nodes)
+                case "community-order":
+                    # Nodes are grouped by their community
+                    nodes = nodes
+                case "fixed":
+                    nodes = self.fixed_random_order
 
             hyperedge = []
             for node in nodes:
-                # self.run_fixed_proba(node, hyperedge, nodes)
-
                 # TODO: check if a node can be the start of several hyperedges
                 
                 # S1: add first node 
@@ -309,6 +320,8 @@ class Generator:
             ginis.append(gini_norm)
             # ginis.append(gini)
 
+            self.G.nodes[hedge]["gini"] = gini_norm
+
         return ginis
 
     def ginis2(self):
@@ -396,6 +409,8 @@ class Generator:
         return graph_json
 
     def export(self):
+        self.ginis()
+
         fp = f"hypergraphs_v2/{self.n_nodes}nodes_{self.p_edge_intra}p_{self.p_edge_inter}q_{self.sampling_start}.json"
         with open(fp, "w+") as path:
             json.dump(self.to_json(), path)
@@ -420,8 +435,9 @@ if __name__ == "__main__":
                 gen.export()
 
 
-    for q in [0.02, 0.005, 0.002, 0]:
-        gen = Generator(200, 200, 4, 0.02, q, None, "frequent")
+    # for q in [0.02, 0.005, 0.002, 0]:
+    for q in [0.05, 0.02, 0.005, 0]:
+        gen = Generator(80, 80, 4, 0.05, q, None, "frequent")
         gen.run()
         gen.export()
 
