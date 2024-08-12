@@ -95,15 +95,13 @@ class Generator:
         for idnode in range(self.n_nodes):
             name = self.new_name()
             community = self.community_array[idnode]
-            # self.G.add_node(idnode, type=self.node_type, name=name, community=community)
-            # self.G.add_node(str(idnode), type=self.node_type, name=name, community=str(community))
             self.G.add_node("p" + str(idnode), type=self.node_type, name=name, community=community)
 
+    # O(n + m + m * n)
     def run(self, order_strat="random"):
         self.init_graph()
 
         for hedge in range(self.n_hedges):
-
             nodes = list(range(self.n_nodes))
             # random.shuffle(nodes)
 
@@ -116,14 +114,17 @@ class Generator:
                 case "fixed":
                     nodes = self.fixed_random_order
 
-            hyperedge = []
+            # hyperedge = []
+            first_node = random.choice(nodes)
+            hyperedge = [first_node]
+            
             for node in nodes:
-                # TODO: check if a node can be the start of several hyperedges
-                
-                # S1: add first node 
-                # if len(hyperedge) == 0:
+                # add first node encountered in hyperedge for random order.
+                # if order_strat == "random" and len(hyperedge) == 0:
                 #     hyperedge.append(node)
                 #     continue
+                if node == first_node:
+                    continue
 
                 self.add_node_in_hyperedge(node, hyperedge)
 
@@ -168,7 +169,6 @@ class Generator:
             p = self.p_edge_intra if com == com2 else self.p_edge_inter
             sum_p += p
         weighted_proba = sum_p / len(hyperedge)
-        
         
         roll = random.random()
         if roll < weighted_proba:
@@ -297,8 +297,6 @@ class Generator:
             for i in range(self.n_coms):
                 if not count[i]:
                     count[i] = 0
-
-            # print(count)
 
             gini = 0
             for i, (n_com, count_value) in enumerate(count.items()):

@@ -2,3 +2,6 @@ paper_v0.pdf
 he_distrib.csv
 
 *.csv
+
+.idea
+.ipynb_checkpoints
