@@ -1,6 +1,6 @@
 import pandas as pd
 
-from generator_v2 import Generator
+from hySBM import Generator
 
 # This script does simulations to test if the order of node traversal has an effect on th Gini of hyperedges
 
